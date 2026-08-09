@@ -43,6 +43,8 @@
   border-left: 1px solid var(--decor-color);
 }
 
+/* REC */
+
 .header__lamp {
   position: absolute;
   justify-content: end;
@@ -155,6 +157,7 @@
 }
 
 .header__theme-menu-button_active {
+  outline: none;
   pointer-events: none;
   outline: 1px solid var(--menu-color-rgb);
 }
@@ -252,7 +255,6 @@
 
   .header__theme-menu-list {
     grid-auto-flow: column;
-    z-index: ;
     margin: 0;
   }
 }
