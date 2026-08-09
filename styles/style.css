@@ -43,8 +43,6 @@
   border-left: 1px solid var(--decor-color);
 }
 
-/* REC */
-
 .header__lamp {
   position: absolute;
   justify-content: end;
