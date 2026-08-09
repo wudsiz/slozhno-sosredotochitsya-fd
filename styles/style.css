@@ -83,10 +83,6 @@
   background: none;
 }
 
-.header__theme-menu-button_active {
-  pointer-events: none;
-}
-
 .header__theme-menu-list {
   display: grid;
   gap: 10px;
@@ -161,7 +157,6 @@
 }
 
 .header__theme-menu-button_active {
-  outline: none;
   pointer-events: none;
   outline: 1px solid var(--menu-color-rgb);
 }
