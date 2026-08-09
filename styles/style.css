@@ -157,7 +157,6 @@
 }
 
 .header__theme-menu-button_active {
-  outline: none;
   pointer-events: none;
   outline: 1px solid var(--menu-color-rgb);
 }
