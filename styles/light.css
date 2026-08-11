@@ -4,6 +4,8 @@
   --decor-color: transparent;
   --accent-color: #FF8DCB;
   --header-color: #FFC2E6;
+  --title-decor-text: #353430;
+  --title-text-color: #353430;
   --text-color:#353430;
   --menu-color: #353430;
   --menu-color-rgb: rgba(50, 49, 45, 0.4);
@@ -13,9 +15,13 @@
   :root {
     --bg-img: url(../images/cover-image-light.png);
     --bg-color: #FFF1F7;
+    --decor-color: transparent;
     --accent-color: #FF8DCB;
     --header-color: #FFC2E6;
+    --title-decor-text: #353430;
+    --title-text-color: #353430;
     --text-color:#353430;
     --menu-color: #353430;
+    --menu-color-rgb: rgba(50, 49, 45, 0.4);
   }
 }
